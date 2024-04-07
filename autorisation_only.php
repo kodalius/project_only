@@ -1,6 +1,6 @@
 <?php
 session_start();
-//define('SMARTCAPTCHA_SERVER_KEY', 'enter your secret server key ');
+define('SMARTCAPTCHA_SERVER_KEY', 'enter your secret server key ');
 
 function check_captcha($token)
 {
