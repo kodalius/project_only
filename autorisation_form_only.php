@@ -15,7 +15,7 @@
         <input type="password" name="a_password">
         <button type="submit">Войти</button>
         <div id="captcha-container" class="smart-captcha"
-            data-sitekey="ysc1_vYE2QrhRkvIDC7mNebRUPRNyTJeXgm06Iu1bTari3e500cbe">
+            data-sitekey="enter your secret client key">
             <input type="hidden" name="smart-token" value="<токен>">
         </div>
     </form>
